@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: lightblue;
+    transition: 0.5s;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: url(/jungle_fantasy_deer_butterflies_night_trees_102121_1920x1080.jpg);
+}
+.mb-4{
+    width: 100%;
+    max-width: 600px;
+    background: #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px 40px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 20px #000000b3;
+}
+.md-form{
+    border: 1px solid gray;
+    margin: 8px 0;
+    padding: 12px 18px;
+    border-radius: 8px;
+    display: block;
+    color: green;
+    text-transform: uppercase;
+}
+.btn{
+    display: block;
+    background: lightblue;
+    padding: 14px 0;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
