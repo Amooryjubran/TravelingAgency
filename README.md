@@ -1,3 +1,3 @@
 # TravelingAgency
 
-Live Demo : https://musing-cray-aa67c7.netlify.com/
+Live Demo : https://travelingagency.netlify.com/
